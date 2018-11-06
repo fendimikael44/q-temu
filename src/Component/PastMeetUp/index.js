@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import './PastMeetUp.css'
-// import Title from '../Atoms/Title'
 import Text from '../Atoms/Text'
 import Panel from '../Panel'
 import Section from '../Section'
