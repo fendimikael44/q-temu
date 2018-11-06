@@ -1,0 +1,18 @@
+.section {
+    margin-left: 10px;
+}
+
+.section-title-div {
+    display: flex;
+    flex-direction: row;
+    /* margin-left: 15px; */
+    margin-right: 35px;
+}
+
+.section-body {
+    /* display: flex;
+    flex-direction: column; */
+    margin: 10px 35px;
+    /* padding: 15px 15px;
+    font-weight: bold; */
+}

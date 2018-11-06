@@ -1,0 +1,48 @@
+.btn-view {
+    background-color: #4f4f4f;
+    color: #ffffff;
+    padding: 5px 10px;
+    font-size: 9pt;
+    margin-top: 15px;
+    /* margin-bottom: 5px; */
+    width: 6vh;
+    text-align: center;
+}
+
+.btn-join-us {
+    background-color: #4f4f4f;
+    color: #ffffff;
+    padding: 5px 25px;
+    font-size: 9pt;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    
+    /* margin-bottom: 0; */
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    
+    /* border-radius: 4px; */
+
+    background-color: #4f4f4f;
+    color: #ffffff;
+    /* margin-top: 15px;
+    margin-bottom: 15px; */
+}

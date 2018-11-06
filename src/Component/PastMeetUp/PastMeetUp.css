@@ -1,0 +1,6 @@
+.past-meetup-div {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 35px;
+    justify-content: space-between;
+}
